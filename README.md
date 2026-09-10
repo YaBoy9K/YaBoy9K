@@ -66,14 +66,6 @@ Self-hosted tool for monitoring Warframe marketplace listings and sending notifi
 
 ---
 
-## 📊 GitHub Stats
-
-![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaBoy9K&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaBoy9K&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zionwelsh)
